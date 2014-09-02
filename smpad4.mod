@@ -1,0 +1,43 @@
+PCBNEW-LibModule-V1  Tue 02 Sep 2014 08:58:04 BST
+# encoding utf-8
+$INDEX
+smpad4
+$EndINDEX
+$MODULE smpad4
+Po 0 0 0 15 5405786F 00000000 ~~
+Li smpad4
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 906 600 600 0 120 N V 21 N "smpad4"
+T1 0 -1339 600 600 0 120 N V 21 N "VAL**"
+$PAD
+Sh "1" C 197 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -591 0
+$EndPAD
+$PAD
+Sh "2" C 197 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -196 0
+$EndPAD
+$PAD
+Sh "3" C 197 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 197 0
+$EndPAD
+$PAD
+Sh "4" C 197 197 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 591 0
+$EndPAD
+$EndMODULE  smpad4
+$EndLIBRARY
