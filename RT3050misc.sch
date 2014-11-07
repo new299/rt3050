@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 02 Sep 2014 05:26:51 BST
+EESchema Schematic File Version 2
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,9 +37,9 @@ LIBS:1v5
 LIBS:29lv320
 LIBS:AIC809
 LIBS:rt3050-cache
-EELAYER 25  0
+EELAYER 25 0
 EELAYER END
-$Descr A4 11700 8267
+$Descr A4 11693 8268
 encoding utf-8
 Sheet 3 6
 Title ""
@@ -57,6 +57,8 @@ U 1 1 53FA654F
 P -50 3850
 F 0 "#PWR016" H -50 3850 30  0001 C CNN
 F 1 "GND" H -50 3780 30  0001 C CNN
+F 2 "" H -50 3850 60  0001 C CNN
+F 3 "" H -50 3850 60  0001 C CNN
 	1    -50  3850
 	1    0    0    -1  
 $EndComp
@@ -72,6 +74,8 @@ U 1 1 53FA653C
 P 800 3700
 F 0 "R13" V 880 3700 50  0000 C CNN
 F 1 "R" V 800 3700 50  0000 C CNN
+F 2 "" H 800 3700 60  0001 C CNN
+F 3 "" H 800 3700 60  0001 C CNN
 	1    800  3700
 	0    1    1    0   
 $EndComp
@@ -81,6 +85,8 @@ U 1 1 53FA6539
 P 200 3700
 F 0 "R12" V 280 3700 50  0000 C CNN
 F 1 "R" V 200 3700 50  0000 C CNN
+F 2 "" H 200 3700 60  0001 C CNN
+F 3 "" H 200 3700 60  0001 C CNN
 	1    200  3700
 	0    1    1    0   
 $EndComp
@@ -90,6 +96,8 @@ U 4 1 53F9FC52
 P 3150 3800
 F 0 "U1" H 3150 -1650 60  0000 C CNN
 F 1 "RT3050" H 3050 7700 60  0000 C CNN
+F 2 "" H 3150 3800 60  0001 C CNN
+F 3 "" H 3150 3800 60  0001 C CNN
 	4    3150 3800
 	1    0    0    -1  
 $EndComp

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 02 Sep 2014 15:48:53 BST
+EESchema Schematic File Version 2
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,9 +37,9 @@ LIBS:1v5
 LIBS:29lv320
 LIBS:AIC809
 LIBS:rt3050-cache
-EELAYER 25  0
+EELAYER 25 0
 EELAYER END
-$Descr A4 11700 8267
+$Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
 Title ""
@@ -81,4 +81,6 @@ U 53F049D7
 F0 "RT3050main" 60
 F1 "RT3050main.sch" 60
 $EndSheet
+Entry Bus Bus
+	4650 2900 4750 3000
 $EndSCHEMATC
